@@ -1,0 +1,8 @@
+{
+  "name": "Runeveil Chronicles: Fantasy Match-3",
+  "description": "An enchanting fantasy match-3 puzzle adventure featuring arcane power-ups, global leaderboards, daily login rewards, and celestial seasonal events.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
